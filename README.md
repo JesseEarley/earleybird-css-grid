@@ -32,6 +32,7 @@ There are 5 column widths:
 * .col-md-* (min-width breakpoint is 768px)
 * .col-lg-* (min-width breakpoint is 992px)
 * .col-xl-* (min-width breakpoint is 1200px)
+
 (Note: The * can be replaced with any number between 1 and 12 to create a column of that width. Adding multiple column widths to a column is required for maximum responsiveness.)
 
 Within the .row element, columns can be added.
