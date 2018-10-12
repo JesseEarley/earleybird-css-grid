@@ -50,7 +50,7 @@ Within the .row element, columns can be added.
 
 ### Requirements
 * SASS - the grid system styles are written in SASS, but could easily be converted to standard CSS if desired.
-* Grunt - Grunt was used for SASS compilation and CSS minifcation, but the project could easily be modified to not use it.
+* Grunt - Grunt was used for SASS compilation and CSS minification, but the project could easily be modified to not use it.
 
 ## Usage
 * Incorporate the SCSS file into your own project to use the custom grid system
